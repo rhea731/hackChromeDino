@@ -5,7 +5,7 @@ Chrome lauched  Dinosaur (T-Rex) game which pops up when network connection is l
 What is your best score? Did you try compete with friends, collegues for scores :) 
 lets try to hack it ;), for best score !!!
 
-open a new tab and type chrome://dino and press enter.
+open a new tab and type chrome://dino and press enter. 
 
 Not too important if you’re not a programmer, this game is written in JavaScript and fortunately for us the class and object are globally exposed. 
 Due to JavaScript’s dynamic nature, we can override functions on the class to change the functionality. We can do all this from the Chrome console.
